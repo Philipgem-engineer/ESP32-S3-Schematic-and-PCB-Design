@@ -14,6 +14,7 @@ This is a custom hardware and PCB design for ESP32-S3. This design includes, LDO
 - 🧱 Component Library: LCSC
 - 🏭 PCB Fabrication: JLCPCB
   
+<img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/f49cc5ab-6f12-4a3b-b06e-8bd745ad40d5" />
 
 <img src="Birthday Greetings Card Project/Media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg" alt="60a1be46-b6f3-4d2e-8082-912dffdcb2ed" width="300"/>
 
