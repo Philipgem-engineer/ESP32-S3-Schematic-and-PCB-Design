@@ -41,6 +41,5 @@ It includes the complete schematic and PCB layout, featuring essential supportin
         <li>(Gerber, BOM, Positions)</li>
       </ul>
     </li>
-    <li>
 </details>
 
