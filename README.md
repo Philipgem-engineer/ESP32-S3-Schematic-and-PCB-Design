@@ -27,26 +27,20 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 ## 📁 File Structure
 
 <details>
-  <summary>birthday-greeting-card/</summary>
+  <summary>ESP32-S3 Project/</summary>
   <ul>
     <li>
-      firmware/
+      Media/
       <ul>
-        <li>Birhtday_Greetings_V3_ino_copy_202504121542_copy_20250502000147.ino # Arduino sketch</li>
+        <li>(PDF, Images and videos of prototype)</li>
       </ul>
     </li>
     <li>
       pcb/
       <ul>
-        <li>Birthday_Greetings_05132025_Gerber.zip # Gerber files for PCB fabrication</li>
+        <li>(Gerber, BOM, Positions)</li>
       </ul>
     </li>
     <li>
-      media/
-      <ul>
-        <li>(Images and videos of prototype)</li>
-      </ul>
-    </li>
-  </ul>
 </details>
 
