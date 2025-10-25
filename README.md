@@ -6,9 +6,10 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 ## 📦 Features
 - ⚡ LDO Voltage Regulator – Provides a stable supply for the ESP32-S3 and peripherals
 - 🔋 Battery Charging Circuit – Supports rechargeable lithium battery input
-- 💾 Flash Memory – Enables larger program storage capacity
+- 💾 Flash Memory – Enables program storage capacity
 - 🧩 ESP32-S3 System-on-Chip – Dual-core processor with integrated Wi-Fi and Bluetooth
 - ⏱️ Crystal Oscillator – Ensures precise clock timing for system stability
+- 📡 Antenna – Integrated PCB for Wi-Fi/Bluetooth connectivity
 
 ## 🧰 Tools Used
 - 🧮 Schematic & PCB Design: KiCad
