@@ -1,11 +1,12 @@
 # 🧠 ESP32-S3 – Schematic and PCB Design
 
-This is a custom hardware and PCB design for ESP32-S3. This design includes, LDO Voltage regulator, battery charging circuit, flash memory, ESP32-S3 SOC and a crystal clock.
+This repository contains a custom hardware design based on the ESP32-S3 microcontroller.
+It includes the complete schematic and PCB layout, featuring essential supporting circuits for stable operation and expandability.
 
 ## 📦 Features
 - ⚡ LDO Voltage Regulator – Provides a stable supply for the ESP32-S3 and peripherals
 - 🔋 Battery Charging Circuit – Supports rechargeable lithium battery input
-- 💾 External Flash Memory – Enables larger program storage capacity
+- 💾 Flash Memory – Enables larger program storage capacity
 - 🧩 ESP32-S3 System-on-Chip – Dual-core processor with integrated Wi-Fi and Bluetooth
 - ⏱️ Crystal Oscillator – Ensures precise clock timing for system stability
 
