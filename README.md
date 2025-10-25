@@ -16,7 +16,11 @@ This is a custom hardware and PCB design for ESP32-S3. This design includes, LDO
   
 <img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/f49cc5ab-6f12-4a3b-b06e-8bd745ad40d5" />
 
-<img src="Birthday Greetings Card Project/Media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg" alt="60a1be46-b6f3-4d2e-8082-912dffdcb2ed" width="300"/>
+<img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/4e9f8042-6859-4ede-b59d-ddabd9c50d42" />
+
+<img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/b73b196a-23b6-46e7-aa9c-f092745a82cc" />
+
+
 
 ## 📁 File Structure
 
