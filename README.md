@@ -22,6 +22,8 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 
 <img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/b73b196a-23b6-46e7-aa9c-f092745a82cc" />
 
+![ESP32-S3_Front_2](https://github.com/user-attachments/assets/a1eb3e45-0cf2-409f-a14c-86e7151e3d97)
+
 
 
 ## 📁 File Structure
