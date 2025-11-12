@@ -1,7 +1,7 @@
 # 🧠 ESP32-S3 – Schematic and PCB Design
 
-This repository contains a custom hardware design based on the ESP32-S3 microcontroller.
-It includes the complete schematic and PCB layout, featuring essential supporting circuits for stable operation and expandability.
+This repository contains a custom hardware of an ESP32-S3 microcontroller dev board.
+It includes the complete schematic and PCB layout, featuring essential supporting circuits.
 
 ## 📦 Features
 - ⚡ LDO Voltage Regulator – Provides a stable supply for the ESP32-S3 and peripherals
@@ -9,7 +9,7 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 - 💾 Flash Memory – Enables program storage capacity
 - 🧩 ESP32-S3 System-on-Chip – Dual-core processor with integrated Wi-Fi and Bluetooth
 - ⏱️ Crystal Oscillator – Ensures precise clock timing for system stability
-- 📡 Antenna – Integrated PCB for Wi-Fi/Bluetooth connectivity
+- 📡 Antenna & Antenna Matching Circuit – Integrated in PCB for Wi-Fi/Bluetooth connectivity
 
 ## 🧰 Tools Used
 - 🧮 Schematic & PCB Design: KiCad
