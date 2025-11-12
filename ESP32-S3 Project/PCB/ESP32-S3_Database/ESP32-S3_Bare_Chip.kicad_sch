@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7ca11540-523a-494e-81ce-32dcfd04380d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 15.24 16.51)
+		(size 129.54 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "020c805a-1f94-4bd2-9ff2-8c0bffec849d")
+		(property "Sheetname" "ESP32-S3 Circuit"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32-S3 Circuit.kicad_sch"
+			(at 15.24 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3_Bare_Chip"
+				(path "/7ca11540-523a-494e-81ce-32dcfd04380d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 97.79)
+		(size 130.81 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "359ba80f-2d7b-4998-bf97-1bc80a38a838")
+		(property "Sheetname" "Flash Memory"
+			(at 149.86 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory.kicad_sch"
+			(at 149.86 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3_Bare_Chip"
+				(path "/7ca11540-523a-494e-81ce-32dcfd04380d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 96.52)
+		(size 129.54 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b600b8df-df23-49bf-bb89-1a7300d71888")
+		(property "Sheetname" "USB and Header Pins"
+			(at 15.24 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 15.24 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3_Bare_Chip"
+				(path "/7ca11540-523a-494e-81ce-32dcfd04380d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 16.51)
+		(size 132.08 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff40e482-42f8-40ac-85e0-df59dc98cce4")
+		(property "Sheetname" "POWER"
+			(at 149.86 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 149.86 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3_Bare_Chip"
+				(path "/7ca11540-523a-494e-81ce-32dcfd04380d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
