@@ -16,7 +16,7 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 -  Component Library: LCSC
 -  PCB Fabrication: JLCPCB
 
-## Schematic
+##  Schematic
 <img width="737" height="505" alt="image" src="https://github.com/user-attachments/assets/691c4887-8d99-4cb4-8d90-b0b7de19f2db" />
 <img width="734" height="506" alt="image" src="https://github.com/user-attachments/assets/7d24ef87-fee7-4092-875b-86d085d48371" />
 <img width="731" height="506" alt="image" src="https://github.com/user-attachments/assets/c573caba-5524-4a7d-a110-36a349148285" />
