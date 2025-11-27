@@ -22,6 +22,10 @@ It includes the complete schematic and PCB layout, featuring essential supportin
 <img width="731" height="506" alt="image" src="https://github.com/user-attachments/assets/c573caba-5524-4a7d-a110-36a349148285" />
 <img width="732" height="503" alt="image" src="https://github.com/user-attachments/assets/a6715986-5ce3-4570-97e6-3f5f7a28ab01" />
 
+##  PCB Design
+<img width="246" height="548" alt="image" src="https://github.com/user-attachments/assets/0fb80085-5ebd-4194-8b71-f9e6620dbd82" />
+<img width="231" height="543" alt="image" src="https://github.com/user-attachments/assets/fa034729-8f9d-4b15-9203-800862adae52" />
+
 ##  PCB 3D view
 <img width="1170" height="636" alt="image" src="https://github.com/user-attachments/assets/f49cc5ab-6f12-4a3b-b06e-8bd745ad40d5" />
 
